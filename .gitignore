@@ -10,11 +10,6 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Ignore model & local files
-artifacts/
-*.joblib
-*.pkl
-
 # Ignore Streamlit temporary files
 .streamlit/
 
