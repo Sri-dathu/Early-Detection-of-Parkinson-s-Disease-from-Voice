@@ -100,3 +100,6 @@ On Windows:
 On macOS/Linux:
 
 source .venv/bin/activate
+
+Website:
+https://early-detection-of-parkinson-s-disease-from-voice-mq5tryozimrt.streamlit.app
